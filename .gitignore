@@ -1,0 +1,10 @@
+.DS_Store
+/Matematica/*.pdf
+/Latex/*.aux
+/Latex/*.log
+/Latex/*.out
+/Latex/*.synctex.gz
+/Latex/*.toc
+/Latex/*.fdb_latexmk
+/Latex/*.fls
+/Latex/*.synctex.gz
